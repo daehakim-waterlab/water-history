@@ -7,11 +7,11 @@ An open web textbook by Daeha Kim (Jeonbuk National University), built with [Jup
 | File | Page |
 | --- | --- |
 | `intro.md` | Introduction (landing page) |
-| `timeline.md` | Timeline (reserved for an interactive timeline) |
+| `timeline.md` | Timeline: a chronology linked to the chapters (an interactive version is planned) |
 | `chapters/01-…` to `chapters/07-…` | Chapters 1–7 |
 | `myst.yml` | Book settings and table of contents (`project.toc`) |
 | `footer.md` | Site-wide footer: copyright and license |
-| `assets/custom.css` | Small style fixes (the long title wraps in the phone top bar) |
+| `assets/custom.css` | Phone fixes: the long title wraps in the top bar; no sideways page scroll |
 
 To add a page, create the Markdown file and list it under `project.toc` in `myst.yml`. Chapter numbers are part of each chapter's `title:`.
 

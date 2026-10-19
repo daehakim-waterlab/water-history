@@ -13,4 +13,9 @@
     line-height: 1.25;
     white-space: normal;
   }
+  /* The hidden "¶" anchor after a heading that wraps near the right edge
+     would otherwise make the whole page scroll sideways. */
+  main.article-grid {
+    overflow-x: clip;
+  }
 }
