@@ -2,9 +2,9 @@
 title: 8 Who lived when
 ---
 
-The chapters of this book follow ideas through time, but it is easy to lose track of the people. Did Euler know Daniel Bernoulli? (Yes: they were friends and worked together in St Petersburg.) Was Darcy still alive when Reynolds did his pipe experiment? (No: Darcy died in 1858, 25 years before.) Could Kelvin have read Prandtl's boundary-layer paper? (Yes, in principle: Kelvin lived until 1907.)
+The chapters of this book follow ideas through time, but it is easy to lose track of the people. Did Euler know Daniel Bernoulli? (Yes: they were friends and worked together in St. Petersburg.) Was Darcy still alive when Reynolds did his pipe experiment? (No: Darcy died in 1858, 25 years before.) Could Kelvin have read Prandtl's boundary-layer paper? (Yes, in principle: Kelvin lived until 1907.)
 
-The chart below shows the lifespan of each person named in chapters 1–7 as a bar from birth to death, sorted by year of birth and coloured by field.
+The chart below shows the lifespan of each person named in chapters 1–7 as a bar from birth to death, sorted by year of birth and colored by field.
 
 - **Choose a period** to zoom in on one part of the history.
 - **Tap a field** to show or hide it.
@@ -200,6 +200,6 @@ The chart below shows the lifespan of each person named in chapters 1–7 as a b
 
 - **Approximate dates.** For ancient and medieval figures, and for a few later ones such as Mariotte, the year of birth or death is not known exactly. These dates are marked *c.* (*circa*), and the corresponding ends of the bars fade out.
 - **Before the Common Era.** There is no year 0: 1 BCE is followed directly by 1 CE. Ages across the boundary take this into account.
-- **Calendars.** Dates are given in the Gregorian calendar. England still used the Julian calendar in Newton's time, so his birth is sometimes given as Christmas Day 1642 (Julian) and sometimes as 4 January 1643 (Gregorian); this chart uses 1643.
+- **Calendars.** Dates are given in the Gregorian calendar. England still used the Julian calendar in Newton's time, so his birth is sometimes given as Christmas Day 1642 (Julian) and sometimes as January 4, 1643 (Gregorian); this chart uses 1643.
 - **Who is included.** The chart lists people named in chapters 1–7 whose dates are known at least approximately. People who are still living are not included, so the most recent part of the story (for example, the developers of today's hydrological models) is under-represented.
-- **Fields.** Each person is placed in one field for colour only. Many of them, such as Euler, Kelvin or Kármán, worked across several.
+- **Fields.** Each person is placed in one field for color only. Many of them, such as Euler, Kelvin or Kármán, worked across several.

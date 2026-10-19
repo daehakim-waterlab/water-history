@@ -8,7 +8,7 @@ A chronology of the people, ideas and events in this book. The **Ch.** column li
 
 | Year | Event | Ch. |
 | --- | --- | --- |
-| c. 500 BCE | Heraclitus: the river that is never the same; later summarised as *panta rhei* | [1](chapters/01-before-the-scientific-revolution.md) |
+| c. 500 BCE | Heraclitus: the river that is never the same; later summarized as *panta rhei* | [1](chapters/01-before-the-scientific-revolution.md) |
 | c. 4th c. BCE | Rainfall measured with standard bowls in India (*Arthashastra*) | [7](chapters/07-history-of-hydrology.md) |
 | 4th c. BCE | Aristotle rejects the vacuum; antiperistasis | [1](chapters/01-before-the-scientific-revolution.md) |
 | c. 256 BCE | Dujiangyan irrigation system built in Sichuan | [1](chapters/01-before-the-scientific-revolution.md) |
@@ -115,7 +115,7 @@ A chronology of the people, ideas and events in this book. The **Ch.** column li
 | 1918 | Prandtl's lifting-line theory; TsAGI founded | [6](chapters/06-war-flight-and-computing.md) |
 | 1922 | Richardson, *Weather Prediction by Numerical Process* | [5](chapters/05-turbulence-and-boundary-layers.md) |
 | 1925 | Prandtl's mixing length | [5](chapters/05-turbulence-and-boundary-layers.md) |
-| 1926 | Goddard's liquid-fuelled rocket | [6](chapters/06-war-flight-and-computing.md) |
+| 1926 | Goddard's liquid-fueled rocket | [6](chapters/06-war-flight-and-computing.md) |
 | 1930 | Kármán moves to Caltech; log law of the wall | [5](chapters/05-turbulence-and-boundary-layers.md) |
 | 1931 | Richards equation for unsaturated flow | [7](chapters/07-history-of-hydrology.md) |
 | 1932 | Sherman's unit hydrograph | [7](chapters/07-history-of-hydrology.md) |

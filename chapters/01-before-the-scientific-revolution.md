@@ -6,11 +6,11 @@ For most of human history, people moved water very skilfully without any theory 
 
 ## Everything flows: Greek ideas about motion and the void
 
-The phrase *panta rhei* ("everything flows") is traditionally linked to Heraclitus of Ephesus (around 500 BCE). The words themselves do not appear in his surviving fragments; they come from later writers summarising his thought. What survives is the famous river image: you cannot step into the same river twice, because new waters are always flowing past. For Heraclitus, the world was a process of constant change held together by an underlying order.
+The phrase *panta rhei* ("everything flows") is traditionally linked to Heraclitus of Ephesus (around 500 BCE). The words themselves do not appear in his surviving fragments; they come from later writers summarizing his thought. What survives is the famous river image: you cannot step into the same river twice, because new waters are always flowing past. For Heraclitus, the world was a process of constant change held together by an underlying order.
 
-Other Greek thinkers asked more mechanical questions. The atomists, Leucippus and Democritus, imagined the world as indivisible particles moving through empty space. Aristotle (384–322 BCE) rejected the void. In his physics a vacuum could not exist, because a body moving through nothing would meet no resistance and would move infinitely fast. This idea, later summarised as *horror vacui* ("nature abhors a vacuum"), would be used for almost two thousand years to explain why water rises in a suction pump or a siphon.
+Other Greek thinkers asked more mechanical questions. The atomists, Leucippus and Democritus, imagined the world as indivisible particles moving through empty space. Aristotle (384–322 BCE) rejected the void. In his physics a vacuum could not exist, because a body moving through nothing would meet no resistance and would move infinitely fast. This idea, later summarized as *horror vacui* ("nature abhors a vacuum"), would be used for almost two thousand years to explain why water rises in a suction pump or a siphon.
 
-Aristotle also had to explain why a thrown stone keeps moving after it leaves the hand. His answer, called *antiperistasis*, was that the air displaced at the front of the stone rushes around to push it from behind. The medium was both the cause of motion and the cause of resistance. The idea seems strange now, but it shows that the problem of how a body moves through a fluid was at the centre of physics from the beginning. Medieval scholars such as John Buridan (14th century) criticised it and proposed instead that the thrower gives the stone an internal *impetus*, an early step towards the modern idea of momentum.
+Aristotle also had to explain why a thrown stone keeps moving after it leaves the hand. His answer, called *antiperistasis*, was that the air displaced at the front of the stone rushes around to push it from behind. The medium was both the cause of motion and the cause of resistance. The idea seems strange now, but it shows that the problem of how a body moves through a fluid was at the center of physics from the beginning. Medieval scholars such as John Buridan (14th century) criticized it and proposed instead that the thrower gives the stone an internal *impetus*, an early step toward the modern idea of momentum.
 
 ## Archimedes and the beginning of hydrostatics
 
@@ -21,7 +21,7 @@ Archimedes of Syracuse (around 287–212 BCE) produced the first real theory in 
 A body wholly or partly immersed in a fluid is pushed upward by a force equal to the weight of the fluid it displaces.
 :::
 
-He also analysed the stability of floating bodies, such as a paraboloid floating at an angle, problems that are still the basis of ship stability. The well-known story of Archimedes leaping from his bath and shouting *eureka* after discovering how to test the gold of King Hiero's crown is told by the Roman architect Vitruvius two centuries later and may be a legend. The water-lifting screw that carries his name was probably known in Egypt before him.
+He also analyzed the stability of floating bodies, such as a paraboloid floating at an angle, problems that are still the basis of ship stability. The well-known story of Archimedes leaping from his bath and shouting *eureka* after discovering how to test the gold of King Hiero's crown is told by the Roman architect Vitruvius two centuries later and may be a legend. The water-lifting screw that carries his name was probably known in Egypt before him.
 
 Hydrostatics, the science of fluids at rest, was therefore founded early and on solid ground. Hydrodynamics, the science of fluids in motion, would have to wait almost two thousand years.
 
@@ -29,7 +29,7 @@ Hydrostatics, the science of fluids at rest, was therefore founded early and on 
 
 In Hellenistic Alexandria, a group of engineers built ingenious devices driven by water, air and steam. Ctesibius (3rd century BCE) is credited with the force pump, a water organ and an improved water clock (*clepsydra*) that kept a constant flow by holding a constant head in the supply tank. Philo of Byzantium described siphons and pneumatic devices. Hero of Alexandria (1st century CE) collected many of these inventions in his *Pneumatica*, including the *aeolipile*, a spinning sphere driven by jets of steam, often called the first steam turbine.
 
-Hero also made an important observation about flow. In his *Dioptra*, he noted that the amount of water a spring delivers cannot be known from the cross-section of the flow alone; one must also take into account how fast it flows, for example by timing how long it takes to fill a vessel. In modern terms, he recognised that discharge depends on both area and velocity. This insight was not widely applied. The Romans, as we shall see, measured water by area alone.
+Hero also made an important observation about flow. In his *Dioptra*, he noted that the amount of water a spring delivers cannot be known from the cross-section of the flow alone; one must also take into account how fast it flows, for example by timing how long it takes to fill a vessel. In modern terms, he recognized that discharge depends on both area and velocity. This insight was not widely applied. The Romans, as we shall see, measured water by area alone.
 
 ## Roman aqueducts and the water commissioner
 
@@ -39,9 +39,9 @@ Our best source on how the system was managed is *De aquaeductu* by Sextus Juliu
 
 ## Water engineering beyond the Mediterranean
 
-Many civilisations developed sophisticated hydraulic engineering independently.
+Many civilizations developed sophisticated hydraulic engineering independently.
 
-- **Qanats** in Persia, from the early first millennium BCE, were gently sloping tunnels that tapped groundwater at the foot of mountains and carried it many kilometres to villages and fields, with vertical shafts for access and ventilation. The technique spread across the Middle East, North Africa and Central Asia.
+- **Qanats** in Persia, from the early first millennium BCE, were gently sloping tunnels that tapped groundwater at the foot of mountains and carried it many kilometers to villages and fields, with vertical shafts for access and ventilation. The technique spread across the Middle East, North Africa and Central Asia.
 - **Dujiangyan** in Sichuan, China, built around 256 BCE under the governor Li Bing, divides the Min River into an inner and an outer channel with a fish-mouth-shaped levee, controlling floods and irrigating the Chengdu Plain without a dam. It is still in use.
 - **The Grand Canal** of China, linked into a single system under the Sui dynasty around 600 CE, carried grain from the south to the northern capitals. The pound lock, with gates at both ends of a chamber, appears in China in the 10th century.
 - **Nilometers** in Egypt measured the annual rise of the Nile, which determined the harvest and, therefore, the taxes. They are among the oldest systematic hydrological records (see [Chapter 7](07-history-of-hydrology.md)).
@@ -72,7 +72,7 @@ Leonardo's notebooks were not published in his lifetime. They were scattered aft
 
 ## The word "revolution"
 
-In 1543, the year of his death, Nicolaus Copernicus published *De revolutionibus orbium coelestium* (*On the Revolutions of the Heavenly Spheres*). For Copernicus, a *revolution* was simply a turning, the circular motion of a planet. Over the following two centuries, as his Sun-centred system overturned the old cosmos, the word acquired its modern meaning of a sudden and complete change, first in science and later in politics.
+In 1543, the year of his death, Nicolaus Copernicus published *De revolutionibus orbium coelestium* (*On the Revolutions of the Heavenly Spheres*). For Copernicus, a *revolution* was simply a turning, the circular motion of a planet. Over the following two centuries, as his Sun-centered system overturned the old cosmos, the word acquired its modern meaning of a sudden and complete change, first in science and later in politics.
 
 The next problem was obvious once the Earth was set in motion: what carries the planets around the Sun? One of the most influential answers, as [Chapter 2](02-the-scientific-revolution.md) shows, was a giant whirlpool, a vortex in an invisible fluid filling all of space. The history of fluid mechanics and the history of the cosmos were about to become entangled.
 

@@ -22,7 +22,7 @@ const CHAPTERS = {
   7: "history-of-hydrology",
 };
 
-// "All" compresses antiquity into the first 16 % of the width.
+// "All" compresses antiquity into the first 16% of the width.
 const ERAS = [
   { id: "all", label: "All", start: -550, end: 2025, ticks: [-500, 0, 500, 1000, 1500, 1600, 1700, 1800, 1900, 2000], knee: [1400, 0.16] },
   { id: "ancient", label: "Before 1500", start: -550, end: 1550, ticks: [-500, 0, 500, 1000, 1500] },
@@ -165,7 +165,7 @@ function render({ model, el }) {
     h("p", { class: "ls-label" }, "Fields (tap to show or hide)"), fieldRow,
     h("p", { class: "ls-label" }, "Move the red line through time"), yearRow,
     summary, content,
-    h("p", { class: "ls-note" }, "Faded bar ends mark approximate (c.) dates. Tap a name for details and a link to its chapter. In “All”, the years before 1400 are compressed (hatched area).")
+    h("p", { class: "ls-note" }, "Faded bar ends mark approximate (c.) dates. Tap a name for details and a link to its chapter. In “All,” the years before 1400 are compressed (hatched area).")
   );
 
   for (const era of ERAS) {

@@ -2,7 +2,7 @@
 title: 2 The Scientific Revolution
 ---
 
-Between the late 16th and early 18th centuries, a new way of studying nature took shape in Europe: controlled experiments, quantitative measurement and mathematical laws. Fluids were at the centre of this change. Experiments on water and air overturned Aristotle's ban on the vacuum, gave the first laws of fluid motion, and produced the barometer and the air pump. At the same time, a fluid theory of the cosmos, René Descartes's vortices, competed with Isaac Newton's gravity, and Newton devoted a whole book of his *Principia* to fluids in order to defeat it.
+Between the late 16th and early 18th centuries, a new way of studying nature took shape in Europe: controlled experiments, quantitative measurement and mathematical laws. Fluids were at the center of this change. Experiments on water and air overturned Aristotle's ban on the vacuum, gave the first laws of fluid motion, and produced the barometer and the air pump. At the same time, a fluid theory of the cosmos, René Descartes's vortices, competed with Isaac Newton's gravity, and Newton devoted a whole book of his *Principia* to fluids in order to defeat it.
 
 ## Stevin and Galileo: from statics to motion
 
@@ -10,7 +10,7 @@ The Flemish engineer Simon Stevin (1548–1620) extended Archimedes' hydrostatic
 
 Galileo Galilei (1564–1642) entered fluid mechanics through controversy. In 1611–1612 he argued in Florence with Aristotelian philosophers about why bodies float. They claimed that the shape of a body (for example a thin flat sheet of ebony) decides whether it floats; Galileo defended Archimedes and the role of density, and published his *Discourse on Bodies in Water* (1612).
 
-Later, in *Two New Sciences* (1638), Galileo reported a puzzle from Florentine well-diggers: a suction pump cannot lift water more than about 18 *braccia* (roughly 10 metres). If nature abhorred a vacuum, why should its horror stop at a fixed height? Galileo suggested that a column of water breaks under its own weight like a rope that is too long. The answer was wrong, but the question was exactly right.
+Later, in *Two New Sciences* (1638), Galileo reported a puzzle from Florentine well-diggers: a suction pump cannot lift water more than about 18 *braccia* (roughly 10 meters). If nature abhorred a vacuum, why should its horror stop at a fixed height? Galileo suggested that a column of water breaks under its own weight like a rope that is too long. The answer was wrong, but the question was exactly right.
 
 ## Castelli and the continuity of rivers
 
@@ -20,7 +20,7 @@ Castelli's work illustrates a pattern that repeats through this book: Italian hy
 
 ## Torricelli, Pascal and the weight of the air
 
-Galileo's successor in Florence, Evangelista Torricelli (1608–1647), solved the pump puzzle. In 1643–1644, with Vincenzo Viviani, he filled a glass tube about one metre long with mercury, closed it with a finger, turned it upside down and opened it in a dish of mercury. The mercury fell to about 76 cm and stayed there, leaving an empty space at the top. Torricelli explained that the column is held up not by a horror of the vacuum but by the weight of the atmosphere pressing on the mercury in the dish: "We live submerged at the bottom of an ocean of air." The mercury barometer was born.
+Galileo's successor in Florence, Evangelista Torricelli (1608–1647), solved the pump puzzle. In 1643–1644, with Vincenzo Viviani, he filled a glass tube about one meter long with mercury, closed it with a finger, turned it upside down and opened it in a dish of mercury. The mercury fell to about 76 cm and stayed there, leaving an empty space at the top. Torricelli explained that the column is held up not by a horror of the vacuum but by the weight of the atmosphere pressing on the mercury in the dish: "We live submerged at the bottom of an ocean of air." The mercury barometer was born.
 
 Torricelli also gave the first law of fluid motion. In *De motu gravium* (1644), he stated that water spurting from a small hole in a tank leaves with the speed it would have gained by falling freely from the water surface:
 
@@ -31,7 +31,7 @@ $$
 V = \sqrt{2 g h}
 $$
 
-where $V$ is the jet velocity, $g$ is gravitational acceleration and $h$ is the depth of the hole below the free surface. It was later recognised as a special case of Bernoulli's equation (see [Chapter 3](03-enlightenment-analytical-hydrodynamics.md)).
+where $V$ is the jet velocity, $g$ is gravitational acceleration and $h$ is the depth of the hole below the free surface. It was later recognized as a special case of Bernoulli's equation (see [Chapter 3](03-enlightenment-analytical-hydrodynamics.md)).
 :::
 
 In France, Blaise Pascal (1623–1662) heard of Torricelli's experiment and set out to prove that the air's weight was responsible. If so, the mercury should stand lower on a mountain. In 1648, at Pascal's request, his brother-in-law Florin Périer carried a barometer up the Puy de Dôme in Auvergne, and the column fell by about 8 cm between the base and the summit. Pascal's *Treatise on the Equilibrium of Liquids*, published after his death in 1663, also states that pressure applied to a confined liquid is transmitted equally in all directions (Pascal's law), the principle of the hydraulic press. The SI unit of pressure is named after him.
@@ -46,7 +46,7 @@ These experiments were also arguments about how knowledge should be made. Boyle 
 
 While experimenters were demonstrating the vacuum, René Descartes (1596–1650) was building a philosophy in which empty space could not exist. In his *Principles of Philosophy* (1644), extension (taking up space) was the very essence of matter, so wherever there is space there is matter. The universe was a *plenum*, completely filled with fine fluid matter in motion.
 
-Motion in a full world can only be circular: when one part moves, it must push others out of the way, which in turn fill the place left behind. Descartes therefore imagined the cosmos as a set of giant whirlpools, or **vortices**. The Sun sits at the centre of one vortex, and the planets are carried around it like boats in an eddy, the nearer ones moving faster. Gravity on Earth was the result of the fine matter of a smaller vortex around the Earth pushing heavier bodies towards its centre.
+Motion in a full world can only be circular: when one part moves, it must push others out of the way, which in turn fill the place left behind. Descartes therefore imagined the cosmos as a set of giant whirlpools, or **vortices**. The Sun sits at the center of one vortex, and the planets are carried around it like boats in an eddy, the nearer ones moving faster. Gravity on Earth was the result of the fine matter of a smaller vortex around the Earth pushing heavier bodies toward its center.
 
 The vortex theory was qualitative, but it was intuitive and mechanical: everything happened by contact and pressure, without mysterious forces acting at a distance. For several decades it dominated physics in France and much of Europe. When the word *revolution* passed from astronomy into common speech, it was a Cartesian cosmos of turning vortices that people had in mind.
 
@@ -62,7 +62,7 @@ Isaac Newton (1643–1727) published *Philosophiae Naturalis Principia Mathemati
 
 Book II contains several lasting ideas:
 
-- **Resistance laws.** Newton analysed motion under resistance proportional to velocity, to its square, and to combinations of the two, and tried to explain them physically. In one model, the fluid is a rarefied set of particles that strike the front of the body; this "impact theory" gives a resistance proportional to the square of the velocity and to the square of the sine of the angle of incidence. It fails badly for ordinary flows (it predicts far too little lift on an inclined wing), but it turned out to be a good approximation for hypersonic flight, almost three centuries later.
+- **Resistance laws.** Newton analyzed motion under resistance proportional to velocity, to its square, and to combinations of the two, and tried to explain them physically. In one model, the fluid is a rarefied set of particles that strike the front of the body; this "impact theory" gives a resistance proportional to the square of the velocity and to the square of the sine of the angle of incidence. It fails badly for ordinary flows (it predicts far too little lift on an inclined wing), but it turned out to be a good approximation for hypersonic flight, almost three centuries later.
 - **Viscosity.** In Section IX, Newton introduced a hypothesis that the resistance arising from a "lack of slipperiness" between layers of a fluid is proportional to the velocity with which the layers separate. In modern terms, the shear stress is proportional to the velocity gradient:
 
 $$
@@ -71,15 +71,15 @@ $$
 
 Fluids that obey this law are still called *Newtonian fluids*, and $\mu$ is the dynamic viscosity.
 - **Efflux from orifices.** Newton's first analysis of the speed of a jet from a hole in a tank disagreed with Torricelli. In the second edition (1713) he corrected it, introducing the contraction of the jet (*vena contracta*) just outside the orifice.
-- **The speed of sound.** Newton calculated the speed of sound in air from its pressure and density. His value was about 15 % too low; the correction, which takes into account that the compressions are too fast for heat to flow (adiabatic, not isothermal), was given by Pierre-Simon Laplace in 1816.
+- **The speed of sound.** Newton calculated the speed of sound in air from its pressure and density. His value was about 15% too low; the correction, which takes into account that the compressions are too fast for heat to flow (adiabatic, not isothermal), was given by Pierre-Simon Laplace in 1816.
 
-The real target of Section IX, however, was Descartes. Newton used his viscosity hypothesis to calculate how a vortex would rotate if driven by a spinning body at its centre. He showed that the periods of fluid layers would increase with the square of the distance from the centre, not with the 3/2 power required by Kepler's third law, and that a vortex could not keep planets on elliptical orbits or comets on their paths across the system. He concluded that "the hypothesis of vortices is utterly irreconcilable with astronomical phenomena." The first serious calculation in viscous fluid mechanics was made to destroy a fluid theory of the universe.
+The real target of Section IX, however, was Descartes. Newton used his viscosity hypothesis to calculate how a vortex would rotate if driven by a spinning body at its center. He showed that the periods of fluid layers would increase with the square of the distance from the center, not with the 3/2 power required by Kepler's third law, and that a vortex could not keep planets on elliptical orbits or comets on their paths across the system. He concluded that "the hypothesis of vortices is utterly irreconcilable with astronomical phenomena." The first serious calculation in viscous fluid mechanics was made to destroy a fluid theory of the universe.
 
 ## Newton against Leibniz: what is conserved?
 
-The Cartesian vortices did not die at once. On the Continent many found Newton's gravity, acting instantly across empty space, a return to occult qualities. The dispute merged with a bitter quarrel between Newton and Gottfried Wilhelm Leibniz (1646–1716) over who had invented the calculus. Leibniz had published his version first (1684), using the notation $dx$ and $\int$ still used today; Newton had developed his "method of fluxions" earlier but kept it private. A committee of the Royal Society, guided by Newton himself, ruled in his favour in 1712. The quarrel divided British and Continental mathematics for a century, and Continental mathematicians, using Leibniz's more flexible notation, went on to create analytical hydrodynamics (see [Chapter 3](03-enlightenment-analytical-hydrodynamics.md)).
+The Cartesian vortices did not die at once. On the Continent many found Newton's gravity, acting instantly across empty space, a return to occult qualities. The dispute merged with a bitter quarrel between Newton and Gottfried Wilhelm Leibniz (1646–1716) over who had invented the calculus. Leibniz had published his version first (1684), using the notation $dx$ and $\int$ still used today; Newton had developed his "method of fluxions" earlier but kept it private. A committee of the Royal Society, guided by Newton himself, ruled in his favor in 1712. The quarrel divided British and Continental mathematics for a century, and Continental mathematicians, using Leibniz's more flexible notation, went on to create analytical hydrodynamics (see [Chapter 3](03-enlightenment-analytical-hydrodynamics.md)).
 
-Leibniz also challenged Descartes on a deeper question: what quantity is conserved in motion? Descartes had said it was the "quantity of motion," mass times speed. In 1686 Leibniz argued that the true measure of a body's "living force" (*vis viva*) was mass times the *square* of velocity, $mv^2$: a body falling from four times the height acquires only twice the speed, but it can do four times as much (it can rise back four times as high). The resulting *vis viva controversy* lasted half a century. Its resolution, that momentum and what we now call kinetic energy are both useful and conserved under different conditions, was a step towards the 19th-century concept of energy (see [Chapter 4](04-industrial-age-engineering-hydraulics.md)). In fluid mechanics, the vis viva principle gave Daniel Bernoulli the key to his famous equation.
+Leibniz also challenged Descartes on a deeper question: what quantity is conserved in motion? Descartes had said it was the "quantity of motion," mass times speed. In 1686 Leibniz argued that the true measure of a body's "living force" (*vis viva*) was mass times the *square* of velocity, $mv^2$: a body falling from four times the height acquires only twice the speed, but it can do four times as much (it can rise back four times as high). The resulting *vis viva controversy* lasted half a century. Its resolution, that momentum and what we now call kinetic energy are both useful and conserved under different conditions, was a step toward the 19th-century concept of energy (see [Chapter 4](04-industrial-age-engineering-hydraulics.md)). In fluid mechanics, the vis viva principle gave Daniel Bernoulli the key to his famous equation.
 
 ## Summary
 

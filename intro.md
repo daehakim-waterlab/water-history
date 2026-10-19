@@ -16,7 +16,7 @@ This short web textbook tells that story for students of civil engineering, hydr
 
 **Water science is part of the same story.** Hydrology grew from the same roots: the measurement of rainfall and river flow, the water balance, and the physics of evaporation and seepage. The last chapter traces that history up to the present.
 
-## How this book is organised
+## How this book is organized
 
 | Page | Period | Main questions |
 | --- | --- | --- |
