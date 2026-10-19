@@ -1,0 +1,16 @@
+/* Phones: let the long book title in the top bar wrap instead of pushing
+   the search and theme buttons off-screen. */
+@media (max-width: 767px) {
+  .myst-top-nav-bar > div:has(> .myst-home-link) {
+    flex-shrink: 1;
+    min-width: 0;
+  }
+  .myst-home-link {
+    min-width: 0;
+  }
+  .myst-home-link span {
+    font-size: 0.95rem;
+    line-height: 1.25;
+    white-space: normal;
+  }
+}

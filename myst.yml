@@ -1,0 +1,30 @@
+# Jupyter Book 2 (MyST) configuration. Build locally with `jupyter book start`
+# (preview) or `jupyter book build --html`; see README.md.
+version: 1
+project:
+  id: water-history
+  title: A Brief History of Fluid Mechanics and Water Sciences
+  authors:
+    - name: Daeha Kim
+  license: CC-BY-NC-4.0
+  github: https://github.com/daehakim-waterlab/water-history
+  toc:
+    - file: intro.md
+    - file: timeline.md
+    - file: chapters/01-before-the-scientific-revolution.md
+    - file: chapters/02-the-scientific-revolution.md
+    - file: chapters/03-enlightenment-analytical-hydrodynamics.md
+    - file: chapters/04-industrial-age-engineering-hydraulics.md
+    - file: chapters/05-turbulence-and-boundary-layers.md
+    - file: chapters/06-war-flight-and-computing.md
+    - file: chapters/07-history-of-hydrology.md
+site:
+  template: book-theme
+  options:
+    logo_text: A Brief History of Fluid Mechanics and Water Sciences
+    style: assets/custom.css
+  nav:
+    - title: Lab homepage
+      url: https://daehakim-waterlab.github.io/
+  parts:
+    footer: footer.md
