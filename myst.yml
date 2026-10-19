@@ -26,6 +26,6 @@ site:
     style: assets/custom.css
   nav:
     - title: Lab homepage
-      url: https://daehakim-waterlab.github.io/
+      url: https://hydroclimatol.com/
   parts:
     footer: footer.md

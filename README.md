@@ -1,6 +1,6 @@
 # A Brief History of Fluid Mechanics and Water Sciences
 
-An open web textbook by Daeha Kim (Jeonbuk National University), built with [Jupyter Book 2](https://jupyterbook.org/) (MyST) and published at <https://daehakim-waterlab.github.io/water-history/>. It is linked from the Teaching menu of the lab homepage, <https://daehakim-waterlab.github.io/>.
+An open web textbook by Daeha Kim (Jeonbuk National University), built with [Jupyter Book 2](https://jupyterbook.org/) (MyST) and published at <https://hydroclimatol.com/water-history/>. It is linked from the Teaching menu of the lab homepage, <https://hydroclimatol.com/>.
 
 ## Structure
 
