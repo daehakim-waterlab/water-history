@@ -9,6 +9,8 @@ An open web textbook by Daeha Kim (Jeonbuk National University), built with [Jup
 | `intro.md` | Introduction (landing page) |
 | `timeline.md` | Timeline: a chronology linked to the chapters (an interactive version is planned) |
 | `chapters/01-…` to `chapters/07-…` | Chapters 1–7 |
+| `chapters/08-who-lived-when.md` | Chapter 8: interactive lifespan chart; the people list is the JSON in the `{anywidget}` block |
+| `assets/lifespans.mjs` | The chart's code (MyST anywidget module) |
 | `myst.yml` | Book settings and table of contents (`project.toc`) |
 | `footer.md` | Site-wide footer: copyright and license |
 | `assets/custom.css` | Phone fixes: the long title wraps in the top bar; no sideways page scroll |

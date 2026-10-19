@@ -2,7 +2,7 @@
 title: Timeline
 ---
 
-A chronology of the people, ideas and events in this book. The **Ch.** column links to the chapter where each entry is discussed. An interactive version of this timeline is planned.
+A chronology of the people, ideas and events in this book. The **Ch.** column links to the chapter where each entry is discussed. An interactive version of this timeline is planned. To see who was alive at the same time, use the lifespan chart in [Chapter 8](chapters/08-who-lived-when.md).
 
 ## Antiquity to the Renaissance
 

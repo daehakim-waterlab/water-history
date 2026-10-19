@@ -18,6 +18,7 @@ project:
     - file: chapters/05-turbulence-and-boundary-layers.md
     - file: chapters/06-war-flight-and-computing.md
     - file: chapters/07-history-of-hydrology.md
+    - file: chapters/08-who-lived-when.md
 site:
   template: book-theme
   options:

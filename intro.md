@@ -28,6 +28,7 @@ This short web textbook tells that story for students of civil engineering, hydr
 | [5 Turbulence and boundary layers](chapters/05-turbulence-and-boundary-layers.md) | 1880s – 1940s | How did Reynolds, Prandtl, von Kármán, Taylor and Kolmogorov reconcile theory and experiment? |
 | [6 War, flight and computing](chapters/06-war-flight-and-computing.md) | 1890s – today | How did aviation, two world wars, rockets and computers transform fluid mechanics? |
 | [7 A history of hydrology](chapters/07-history-of-hydrology.md) | Antiquity – today | How did the water cycle become a quantitative science? |
+| [8 Who lived when](chapters/08-who-lived-when.md) | All periods | Which of these people were alive at the same time? |
 
 Each chapter ends with a short list of further reading. Equations are included where they help to explain an idea; you can skip them and still follow the story.
 
