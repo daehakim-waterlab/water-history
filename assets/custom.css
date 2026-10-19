@@ -19,3 +19,17 @@
     overflow-x: clip;
   }
 }
+
+/* Keep a heading close to the table it introduces (the theme stacks the
+   heading's bottom margin and the table's top margin, about 52px), and
+   leave more room above the next section's heading instead. The theme
+   sets heading margin-top to 0 !important, so that space is padding. */
+article :is(h2, h3):has(+ .overflow-auto > table) {
+  margin-bottom: 0.75rem;
+}
+article :is(h2, h3) + .overflow-auto > table {
+  margin-top: 0;
+}
+article .overflow-auto:has(> table) + :is(h2, h3) {
+  padding-top: 1rem;
+}
