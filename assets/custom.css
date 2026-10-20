@@ -1,6 +1,7 @@
-/* Phones: let the long book title in the top bar wrap instead of pushing
-   the search and theme buttons off-screen. */
-@media (max-width: 767px) {
+/* Below 1280px the long book title, the Lab homepage link and the search box
+   do not fit on one line, so let the title wrap instead of pushing the
+   buttons off-screen. */
+@media (max-width: 1279px) {
   .myst-top-nav-bar > div:has(> .myst-home-link) {
     flex-shrink: 1;
     min-width: 0;
@@ -9,9 +10,13 @@
     min-width: 0;
   }
   .myst-home-link span {
-    font-size: 0.95rem;
     line-height: 1.25;
     white-space: normal;
+  }
+}
+@media (max-width: 767px) {
+  .myst-home-link span {
+    font-size: 0.95rem;
   }
   /* The hidden "¶" anchor after a heading that wraps near the right edge
      would otherwise make the whole page scroll sideways. */
@@ -21,38 +26,38 @@
 }
 
 /* Section spacing: a heading belongs to the content below it, so it gets a
-   large gap above (separating it from the previous section) and a small gap
-   below. The theme forces heading margin-top to 0 !important, so the space
-   above is padding: about 56px on desktop and 36px on phones, counting the
-   20px bottom margin of a paragraph, list or box. Tables, equations and the chart
+   larger gap above (separating it from the previous section) than below.
+   The theme forces heading margin-top to 0 !important, so the space above is
+   padding: about 40px on desktop and 30px on phones, counting the 20px
+   bottom margin of a paragraph, list or box. Tables, equations and the chart
    have no bottom margin, so a heading after them gets that 20px back.
    ".article" outranks the theme's own heading margin rule. */
 .article h2 {
-  padding-top: 3.5rem;
+  padding-top: 2.5rem;
   margin-bottom: 0.25rem;
 }
 .article :is(p, ul, ol, blockquote, aside) + h2 {
-  padding-top: 2.25rem;
+  padding-top: 1.25rem;
 }
 .article h3 {
   padding-top: 2rem;
   margin-bottom: 0.25rem;
 }
 .article :is(p, ul, ol, blockquote, aside) + h3 {
-  padding-top: 1.25rem;
+  padding-top: 0.75rem;
 }
 @media (max-width: 767px) {
   .article h2 {
-    padding-top: 2.25rem;
+    padding-top: 1.875rem;
   }
   .article :is(p, ul, ol, blockquote, aside) + h2 {
-    padding-top: 1rem;
+    padding-top: 0.625rem;
   }
   .article h3 {
     padding-top: 1.5rem;
   }
   .article :is(p, ul, ol, blockquote, aside) + h3 {
-    padding-top: 0.75rem;
+    padding-top: 0.375rem;
   }
 }
 /* A table straight after a heading would add its own 28px top margin. */
@@ -74,6 +79,9 @@ article :is(h2, h3) + .overflow-auto > table {
 .myst-top-nav-bar .myst-theme-button,
 .myst-navbar-end ~ * {
   order: 1;
+}
+.myst-navbar-end a.link .link-text {
+  white-space: nowrap;
 }
 .myst-navbar-end a.link .link-icon {
   display: none !important; /* MyST's external-link arrow */
