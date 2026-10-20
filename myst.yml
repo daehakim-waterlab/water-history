@@ -24,8 +24,8 @@ site:
   options:
     logo_text: A Brief History of Fluid Mechanics and Water Sciences
     style: assets/custom.css
-  nav:
-    - title: Lab homepage
-      url: https://hydroclimatol.com/
   parts:
     footer: footer.md
+    # "Lab homepage" link at the end of the top bar, styled in assets/custom.css
+    # to match the lab's other textbooks (house icon; icon only on phones).
+    navbar_end: lab-home.md

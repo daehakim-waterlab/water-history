@@ -13,7 +13,8 @@ An open web textbook by Daeha Kim (Jeonbuk National University), built with [Jup
 | `assets/lifespans.mjs` | The chart's code (MyST anywidget module) |
 | `myst.yml` | Book settings and table of contents (`project.toc`) |
 | `footer.md` | Site-wide footer: copyright and license |
-| `assets/custom.css` | Phone fixes: the long title wraps in the top bar; no sideways page scroll |
+| `lab-home.md` | "Lab homepage" link in the top bar (`site.parts.navbar_end`) |
+| `assets/custom.css` | Section spacing, the house-icon style of the Lab homepage link (as in the lab's other textbooks), and phone fixes |
 
 To add a page, create the Markdown file and list it under `project.toc` in `myst.yml`. Chapter numbers are part of each chapter's `title:`.
 
